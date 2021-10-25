@@ -17,7 +17,7 @@ search.addWidgets([
   }),
   instantsearch.widgets.searchBox({
     container: '#search-box',
-    placeholder: 'Search for items',
+    placeholder: 'Search for NFT',
   }),
   instantsearch.widgets.hits({
     container: '#hits',
