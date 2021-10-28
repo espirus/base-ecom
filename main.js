@@ -17,7 +17,7 @@ search.addWidgets([
   }),
   instantsearch.widgets.searchBox({
     container: '#search-box',
-    placeholder: 'Search for NFT',
+    placeholder: 'Search for Upcomming Events & Conferences',
   }),
   instantsearch.widgets.hits({
     container: '#hits',
