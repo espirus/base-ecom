@@ -17,7 +17,7 @@ search.addWidgets([
   }),
   instantsearch.widgets.searchBox({
     container: '#search-box',
-    placeholder: 'Search for Upcomming Events & Conferences',
+    placeholder: 'Search Events & Conferences',
   }),
   instantsearch.widgets.hits({
     container: '#hits',
